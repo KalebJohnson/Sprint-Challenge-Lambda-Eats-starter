@@ -112,7 +112,9 @@ const Form = props  => {
               <option value="12">12"</option>
               <option value="18">18"</option>
               </select>
-
+            <hr></hr>
+          <label>Toppings!</label>
+          <hr></hr>
           <label htmlFor='terms'>Pepperoni</label>
             <input type="checkbox"
              id="pepperoni" 
